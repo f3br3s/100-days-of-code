@@ -9,5 +9,5 @@
 
 [//]: # (**Link to work:** [Calculator App](http://www.example.com))
 
-[//]: # ([Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string))
-[//]: # ([Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence))
+[//]: # ( [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) )
+[//]: # ( [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) )
