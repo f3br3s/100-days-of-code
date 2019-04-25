@@ -14,7 +14,7 @@
 
 **Link to work**: [responsive logo + rough responsive slider content]
 
-[responsive logo + rough responsive slider content]:
+[responsive logo + rough responsive slider content]:https://github.com/f3br3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
 [Slick slider snippet]: https://github.com/f3br3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
