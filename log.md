@@ -15,6 +15,7 @@
 **Link to work**: [responsive logo + rough responsive slider content]
 
 [responsive logo + rough responsive slider content]:
+
 [Slick slider snippet]: https://github.com/f3br3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
 [//]: # (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
