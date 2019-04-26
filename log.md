@@ -14,6 +14,19 @@
 
 **Link to work**: [responsive logo + rough responsive slider content]
 
+### Day 1: April 24rd, 2019
+**Today's Progress**: I struggled trying to manipulate with jquery the classes I used to make my logo responsive (using background image position and size and svg file) to make it appear and dissapear in synch with an empty slide of the slick slider. Didn't make any progress but learned some jquery sintax and workarounds. I didn't stop until I found this [solution to loop addClass and removeClass]. Hopefully I'll have my responsive slider + responsive logo header done by tomorrow.
+
+
+
+**Thoughts**: May be jquery is not the best choice when you need something too customized.
+
+**Link to work**: [struggling with jquery and responsive logo + slider]
+
+[struggling with jquery and responsive logo + slider]:https://github.com/f3br3s/dev_git/blob/master/responsive-logo-sprite%2Bjs-slider/index.html
+
+[solution to loop addClass and removeClass]:http://jsbin.com/oselux/1/edit?html,css,js,output
+
 [responsive logo + rough responsive slider content]:https://github.com/f3br3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
 [Slick slider snippet]: https://github.com/f3br3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
