@@ -17,11 +17,14 @@
 ### Day 2: April 25st, 2019
 **Today's Progress**: I struggled trying to manipulate with jquery the classes I used to make my logo responsive (using background image position and size and svg file) to make it appear and dissapear in synch with an empty slide of the slick slider. Didn't make any progress but learned some jquery sintax and workarounds. I didn't stop until I found this [solution to loop addClass and removeClass] with jquery. Hopefully I'll have my responsive slider + responsive logo header done by tomorrow.
 
+### Day 3: April 26th, 2019
+**Today's Progress**: I kept struggling to make a background image change in a loop, to achive the responsive logo + responsive slider header. Didn't make it yet but already found a script (in pure java script, no library) to change a background image in a loop. I made the test with a svg  file and it worked. I think tomorrow I'll just have to synch the background image (with the responsive logo) and the slider and move on to the next challenge.
 
+**Thoughts**: As I thought, finally I found the solution in pure java script. May be jquery doesn't necessarily means to write less in all cases?
 
-**Thoughts**: May be jquery is not the best choice when you need something too customized.
+**Link to work**: [background image change in a loop with pure js]
 
-**Link to work**: [struggling with jquery and responsive logo + slider]
+[background image change in a loop with pure js]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite-intermitente
 
 [struggling with jquery and responsive logo + slider]:https://github.com/f3br3s/dev_git/blob/master/responsive-logo-sprite%2Bjs-slider/index.html
 
