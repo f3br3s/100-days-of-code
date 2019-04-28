@@ -29,7 +29,7 @@
 
 **Link to work**: [responsive slider + responsive logo header]
 
-
+![https://media.giphy.com/media/SVOOhH7Ed4BM1QCO9f/giphy.gif]
 
 [responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
