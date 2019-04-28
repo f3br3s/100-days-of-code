@@ -20,9 +20,18 @@
 ### Day 3: April 26th, 2019
 **Today's Progress**: I kept struggling to make a background image change in a loop, to achieve the responsive logo + responsive slider header. Didn't make it yet but already found a script (in pure java script, no library) to change a background image in a loop. I made the test with a svg  file and it worked. I think tomorrow I'll just have to synch the background image (with the responsive logo) and the slider and move on to the next challenge.
 
-**Thoughts**: As I thought, finally I found the solution in pure java script. May be jquery doesn't necessarily means to write less in all cases?
-
 **Link to work**: [background image change in a loop with pure js]
+
+### Day 4: April 27th, 2019
+**Today's Progress**: Finally made it! Roughly but made it: I have a slick slider and a responsive logo on the same header. It was hard to synch the slider animation script and the toggle background image animation script, and I tried some others approaches (like covering the background responsive logo with a slide background color, or putting the responsive logo background-based on a slider container). None of them worked, so I try harder to synch the slider and the background image toggle, and finally made it. 
+
+**Thoughts**: It's not even close a perfect solution. But I'm proud of how far have I go without learning more than really really basic javascript. I'll learn some more on the 100Days challenge, though, and I think that after this work everything will be easier there.
+
+**Link to work**: [responsive slider + responsive logo header]
+
+
+
+[responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
 [background image change in a loop with pure js]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite-intermitente
 
