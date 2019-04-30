@@ -29,6 +29,17 @@
 
 **Link to work**: [responsive slider + responsive logo header]
 
+### Day 5: April 28th, 2019
+**Today's progress**: Today I just adapted my current portfolio (build with #jekyll on #githubpages) to pass the Responsive Web Design Project on #freeCodeCamp. 
+
+**Thoughs**: Some things were a little odd since I build it with a different approach.
+
+### Day 6: April 29th, 2019
+**Today's progress**: Today I kept bringing myself up to date with #freeCodeCamp projects (in order to get certifications), trying to work in real projects. I'm building a survey to add to my portfolio webpage, where costumers can quickly ask for an estimate.
+
+**Thoughs**: Actually I had some gaps in html forms, so it's not only about the certification requirements.
+
+
 ![responsive logo + slider gif](https://media.giphy.com/media/SVOOhH7Ed4BM1QCO9f/giphy.gif)
 
 [responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
