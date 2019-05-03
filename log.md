@@ -37,7 +37,10 @@
 ### Day 6: April 29th, 2019
 **Today's progress**: Today I kept bringing myself up to date with #freeCodeCamp projects (in order to get certifications), trying to work in real projects. I'm building a survey to add to my portfolio webpage, where costumers can quickly ask for an estimate.
 
-**Thoughs**: Actually I had some gaps in html forms, so it's not only about the certification requirements.
+### Day 7: May 2nd, 2019
+**Today's progress**: For the last two days I couldn't help getting distracted by the turmoil in my country, Venezuela. Today I coded for more than three hours to recover some of the lost time. I've been optimizing my workflow, setting up a build machine with npm. I've been using two great tutorials by Site Point. I'm almost done with the build machine, and I hope to be working tomorrow on my Drupal theming.
+
+**Thoughs**: I used to think that may be npm was too much of a tool for simple minifying, vendor prefixing and sass compiling jobs. However, I find it a very useful tool to organize your projects, no matter what their size is.
 
 
 ![responsive logo + slider gif](https://media.giphy.com/media/SVOOhH7Ed4BM1QCO9f/giphy.gif)
