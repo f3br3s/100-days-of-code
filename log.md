@@ -29,6 +29,8 @@
 
 **Link to work**: [responsive slider + responsive logo header]
 
+![responsive logo + slider gif](https://media.giphy.com/media/SVOOhH7Ed4BM1QCO9f/giphy.gif)
+
 ### Day 5: April 28th, 2019
 **Today's progress**: Today I just adapted my current portfolio (build with #jekyll on #githubpages) to pass the Responsive Web Design Project on #freeCodeCamp. 
 
@@ -42,8 +44,22 @@
 
 **Thoughs**: I used to think that may be npm was too much of a tool for simple minifying, vendor prefixing and sass compiling jobs. However, I find it a very useful tool to organize your projects, no matter what their size is.
 
+### Day 8: May 3rd, 2019
+**Today's progress**: I finished muy build tool with npm, based on the [Site Point tutorial] and adding the postcss package. I also started to review some material about Drupal theming. And I found out that my own notes from more than a year really worked for me as a breadcrum. Ready to get deeply into the theming tomorrow.
 
-![responsive logo + slider gif](https://media.giphy.com/media/SVOOhH7Ed4BM1QCO9f/giphy.gif)
+**Thoughs**: I don't find how Gulp is useful if you can simply make a custom buildtool with npm. May be I'll find it useful when I'm more advances.
+
+**Link to work**: [buildtool]
+
+### Day 9: May 4rth, 2019
+**Today's progress**: I started the setup of my Drupal theme and everything went well. However, when I was about to start mixing the twig files with my custom html, I decided to do it first with a test website. So I installed a new local Drupal site took a w3 schools photographer's theme and made some adjustments.
+
+**Thoughs**: Am I just procastinating? Sincerely I think that doing my first theming with a (more or less) complex real web site might not be the most productive path. I'll rather finish this photographer's template demo, before working directly with my digital humanities project.
+
+
+
+
+[buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
 [responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
 
