@@ -52,7 +52,7 @@
 **Link to work**: [buildtool]
 
 ### Day 9: May 4rth, 2019
-**Today's progress**: I started the setup of my Drupal theme and everything went well. However, when I was about to start mixing the twig files with my custom html, I decided to do it first with a test website. So I installed a new local Drupal site took a w3 schools photographer's theme and made some adjustments.
+**Today's progress**: I started the setup of my Drupal theme and everything went well. However, when I was about to start mixing the twig files with my custom html, I decided to do it first with a test website. So I installed a new local Drupal site and took a w3 schools theme and made some adjustments, to make a Drupal theme from it.
 
 **Thoughs**: Am I just procastinating? Sincerely I think that doing my first theming with a (more or less) complex real web site might not be the most productive path. I'll rather finish this photographer's template demo, before working directly with my digital humanities project.
 
