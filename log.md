@@ -56,8 +56,11 @@
 
 **Thoughs**: Am I just procastinating? Sincerely I think that doing my first theming with a (more or less) complex real web site might not be the most productive path. I'll rather finish this photographer's template demo, before working directly with my digital humanities project.
 
+### Day 10: May 5th, 2019
+**Today's progress**: Theming is already going on. I spend some time seting up a custom build tool for the theme folder, from sass, to css, to css min, adding vendor prefixes and reflecting changes in real time. The fact that minifiers rewrites urls relative to the minified file location blew my mind a little .
 
-
+**Thoughs**
+My old notes have been of great help. It has made everything quite easier.
 
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
