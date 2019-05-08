@@ -66,7 +66,7 @@ My old notes have been of great help. It has made everything quite easier.
 **Today's progress**: Going ahead with Drupal theming. I've been working on the setup of the CMS as well, to have a nice working photographer's site Drupal template, with collections, tags and photo stories/series. I'm not making fast progress yet, because I'm still warming up and getting used to the file structure, relation between templates, debugging workflow, etcetera. Hope to have a very productive day tomorrow! (and start to commit so I can show some links).
 
 **Thoughs**
-I was trying to have a raw twig template and a html layout template progressively mutating into twig, running at the same time. I think the only way is to open the raw twig template in the browser, never refresh, and inspect it as you replace the static html with twig scripts on the actual running-on-the-server file.
+I was trying to have a raw twig template and a html layout template (progressively mutating into twig), running at the same time on the templates folder. I think the only way is to open the raw twig template in the browser, never refresh, disable it, and inspect it as you replace the static html with twig scripts on the actual running-on-the-server file.
 
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
