@@ -68,6 +68,15 @@ My old notes have been of great help. It has made everything quite easier.
 **Thoughs**
 I was trying to have a raw twig template and a html layout template (progressively mutating into twig), running at the same time on the templates folder. I think the only way is to open the raw twig template in the browser, never refresh, disable it, and inspect it as you replace the static html with twig scripts on the actual running-on-the-server file.
 
+### Day 11: May 8th, 2019
+**Today's progress**: More theming. Still getting used to the naming conventions, and to the clearing-cache routine. I messed it all up and had to start from scratch when I log out. I left the themed responsive menu working (although the small version is not dynamic yet) and finalized my day with a completely clear idea of the workflow and naming conventions.
+
+**Thoughs**: May be learning Drush could be mi next challenge. Also, I think that I must define my profile as a junior full-stack developer, developing in Drupal, Jekyll, Prestashop and the front-end tools.
+
+## Day 12: May 10th, 2019
+**Today's progress**: After two intense paperwork-days, back to the one hour routine. In that time, today I just could make a little progress with theming, adding a pseudo-class to have one of the links (home) remaining on the top navbar when the rest of them ar not shown. I also made my work in progress template a more specific one (--front), not affecting the rest of the site while I work.
+
+
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
 [responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
