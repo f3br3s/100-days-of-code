@@ -73,8 +73,11 @@ I was trying to have a raw twig template and a html layout template (progressive
 
 **Thoughs**: May be learning Drush could be mi next challenge. Also, I think that I must define my profile as a junior full-stack developer, developing in Drupal, Jekyll, Prestashop and the front-end tools.
 
-## Day 12: May 10th, 2019
+### Day 12: May 10th, 2019
 **Today's progress**: After two intense paperwork-days, back to the one hour routine. In that time, today I just could make a little progress with theming, adding a pseudo-class to have one of the links (home) remaining on the top navbar when the rest of them ar not shown. I also made my work in progress template a more specific one (--front), not affecting the rest of the site while I work.
+
+### Day 13: May 11th, 2019
+**Today's progress**: Just to find out that I was theming the responsive navbar with a wrong approach: I was trying to duplicate the main navegation menu block, followingt the html template approach, wich repeats every menu Item and toggles hiding/showing one or another in different sizes. Tomorrow I'll make it work either with jquery or with a Drupal module.
 
 
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
