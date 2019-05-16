@@ -79,6 +79,9 @@ I was trying to have a raw twig template and a html layout template (progressive
 ### Day 13: May 11th, 2019
 **Today's progress**: Just to find out that I was theming the responsive navbar with a wrong approach: I was trying to duplicate the main navegation menu block, followingt the html template approach, wich repeats every menu Item and toggles hiding/showing one or another in different sizes. Tomorrow I'll make it work either with jquery or with a Drupal module.
 
+### Day 14: May 15th, 2019
+**Today's progress**: Installed a slimmenu in my Drupal site. Learned the workflow for snippets of jquery code in Drupal theming.
+
 
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
