@@ -82,6 +82,14 @@ I was trying to have a raw twig template and a html layout template (progressive
 ### Day 14: May 15th, 2019
 **Today's progress**: Installed a slimmenu in my Drupal site. Learned the workflow for snippets of jquery code in Drupal theming.
 
+### Day 15: May 16th, 2019
+**Today's progress**:  Tried to customize the slimmenu while theming but it's a terrible idea. Haha. After some struggling, I went back to customize it as a static template before using it with my Drupal site.  I'm making quite faster progress now, but it's late and I have to stop for today.
+
+**Thoughs**:
+
+* Does it worth to keep using clearfix hack? I did some research and found that it mostly doesn't worth it unless you have a wide audience in New Zeland (?). As a general rule, I wouldn't use snippets in the future if they are not made with modern styling (basically flexbox).
+* Slimmenu is a great tool, although too hard to customize, and styled with the old fashioned clearfix approach. I'm considering a pull request, or may be fork it and upload a different version entirely made with flexbox.
+
 
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
