@@ -91,6 +91,17 @@ I was trying to have a raw twig template and a html layout template (progressive
 * Slimmenu is a great tool, although too hard to customize, and styled with the old fashioned clearfix approach. I'm considering a pull request, or may be fork it and upload a different version entirely made with flexbox.
 
 
+### Day 16: May, 2019
+**Today's progress**: I finally have cms responsive menu working!
+
+### Day 17: May 27, 2019
+**Today's progress**: Very productive day. I had the challenge to set up a cms based background parallax image that allows user to choose it and change it. Found this [beautiful module]. Had some trouble making it work (i missed one of the installation instruction steps, the one related with permissions), and it made me learn more about the relation between regions, config file and variables. 
+
+**Toughs**: I've lost my streak, obviusly, but hopefully I'll get it back. Last week was a tough one.
+
+
+[beautiful module]:https://tag1consulting.com/blog/background-image-new-drupal-8-module
+
 [buildtool]:https://github.com/febr3s/dev_git/tree/master/buildtool
 
 [responsive slider + responsive logo header]:https://github.com/febr3s/dev_git/tree/master/responsive-logo-sprite%2Bjs-slider
