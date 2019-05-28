@@ -68,21 +68,21 @@ My old notes have been of great help. It has made everything quite easier.
 **Thoughs**
 I was trying to have a raw twig template and a html layout template (progressively mutating into twig), running at the same time on the templates folder. I think the only way is to open the raw twig template in the browser, never refresh, disable it, and inspect it as you replace the static html with twig scripts on the actual running-on-the-server file.
 
-### Day 11: May 8th, 2019
+### Day 12: May 8th, 2019
 **Today's progress**: More theming. Still getting used to the naming conventions, and to the clearing-cache routine. I messed it all up and had to start from scratch when I log out. I left the themed responsive menu working (although the small version is not dynamic yet) and finalized my day with a completely clear idea of the workflow and naming conventions.
 
 **Thoughs**: May be learning Drush could be mi next challenge. Also, I think that I must define my profile as a junior full-stack developer, developing in Drupal, Jekyll, Prestashop and the front-end tools.
 
-### Day 12: May 10th, 2019
+### Day 13: May 10th, 2019
 **Today's progress**: After two intense paperwork-days, back to the one hour routine. In that time, today I just could make a little progress with theming, adding a pseudo-class to have one of the links (home) remaining on the top navbar when the rest of them ar not shown. I also made my work in progress template a more specific one (--front), not affecting the rest of the site while I work.
 
-### Day 13: May 11th, 2019
+### Day 14: May 11th, 2019
 **Today's progress**: Just to find out that I was theming the responsive navbar with a wrong approach: I was trying to duplicate the main navegation menu block, followingt the html template approach, wich repeats every menu Item and toggles hiding/showing one or another in different sizes. Tomorrow I'll make it work either with jquery or with a Drupal module.
 
-### Day 14: May 15th, 2019
+### Day 15: May 15th, 2019
 **Today's progress**: Installed a slimmenu in my Drupal site. Learned the workflow for snippets of jquery code in Drupal theming.
 
-### Day 15: May 16th, 2019
+### Day 16: May 16th, 2019
 **Today's progress**:  Tried to customize the slimmenu while theming but it's a terrible idea. Haha. After some struggling, I went back to customize it as a static template before using it with my Drupal site.  I'm making quite faster progress now, but it's late and I have to stop for today.
 
 **Thoughs**:
@@ -91,10 +91,10 @@ I was trying to have a raw twig template and a html layout template (progressive
 * Slimmenu is a great tool, although too hard to customize, and styled with the old fashioned clearfix approach. I'm considering a pull request, or may be fork it and upload a different version entirely made with flexbox.
 
 
-### Day 16: May, 2019
+### Day 17: May, 2019
 **Today's progress**: I finally have cms responsive menu working!
 
-### Day 17: May 27, 2019
+### Day 18: May 27, 2019
 **Today's progress**: Very productive day. I had the challenge to set up a cms based background parallax image that allows user to choose it and change it. Found this [beautiful module]. Had some trouble making it work (i missed one of the installation instruction steps, the one related with permissions), and it made me learn more about the relation between regions, config file and variables. 
 
 **Toughs**: I've lost my streak, obviusly, but hopefully I'll get it back. Last week was a tough one.
