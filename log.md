@@ -99,6 +99,14 @@ I was trying to have a raw twig template and a html layout template (progressive
 
 **Toughs**: I've lost my streak, obviusly, but hopefully I'll get it back. Last week was a tough one.
 
+### Day 19: May 28, 2019
+**Today's progress**: Fixed some of the resulting layout. Had to make some adaptations to combine the background image module with the original layout, because they are made with different approaches. Made it work perfectly. The cms version of the background image looks exactly the same as the html/css mockup.
+
+### Day 20: May 29, 2019
+**Today's progress**: Did some work with the cms, setting up a custom block to allow the user to edit the "highlights" section, keeping it restricted to a limited number. Did some of the "content" region set-up, and activated it in the twig template.
+
+### Day 21: May 30, 2019
+**Today's progress**: Customized the "main content" section editing the view. I duplicated the frontpage view, renamed as blog, and set up a content type for the frontpage teasers. Checked some guidelines about theming views.
 
 [beautiful module]:https://tag1consulting.com/blog/background-image-new-drupal-8-module
 
